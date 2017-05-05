@@ -1,0 +1,33 @@
+/* Empty. Add your own CSS if you like */
+.logo-header {
+    margin-top: 3px;
+}
+
+.status-main {
+    background-image: url("img/slider-image.jpg");
+}
+
+.circuit-bg {
+    background: url('img/slider-image.jpg') no-repeat left;
+    background-blend-mode: saturation;
+    color: dimgrey;
+   
+}
+
+.circuit-bg h2 {
+    color: #00A8CD;
+}
+
+.circuit-bg p {
+    color: darkslategrey;
+}
+
+/*google maps css*/
+.scroll {
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
